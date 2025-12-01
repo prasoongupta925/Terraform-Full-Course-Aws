@@ -6,8 +6,8 @@
 **Personal Practice Repo:** https://github.com/BejadiRajeshReddy/30-Days-AWS-Terraform-Challenge.git
 
 ## Progress Overview
-- **Days Completed:** 2/30
-- **Current Streak:** 1 day
+- **Days Completed:** 4/30
+- **Current Streak:** 2 days
 - **Last Submission:** 2025-11-26
 
 ---
@@ -47,6 +47,42 @@
 ### 🎯 Key Learnings
 
 Today I Learnt Terraform Providers & Versioning in Depth
+
+---
+
+## Day 4: Terraform State Management & Remote Backend
+**Date:** 2025-11-27  
+**Status:** ✅ Completed
+
+### 📝 Blog Post
+[Day 4 - Terraform State Management & Remote Backend](https://bejadirajeshreddy.hashnode.dev/day-4-terraform-state-management-and-remote-backend)
+
+### 🔗 Links
+- **Social Media:** [Post](https://www.linkedin.com/posts/rajeshreddybejadi_430-terraform-state-file-management-with-activity-7399812881669869568-oflz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtOAmUBhMKAawGNShowAOwp-oCW6MwdWis)
+- **Code Repository:** [GitHub](https://github.com/BejadiRajeshReddy/30-Days-AWS-Terraform-Challenge.git)
+- **Issue:** [#163](https://github.com/piyushsachdeva/Terraform-Full-Course-Aws/issues/163)
+
+### 🎯 Key Learnings
+
+Today I learnt state management in terraform
+
+---
+
+## Day 3: Provisioning S3 and VPC
+**Date:** 2025-11-26  
+**Status:** ✅ Completed
+
+### 📝 Blog Post
+[Day 3 - Provisioning S3 and VPC](https://bejadirajeshreddy.hashnode.dev/day-3-creating-a-vpc-and-s3-bucket-in-terraform-with-implicit-dependency)
+
+### 🔗 Links
+- **Social Media:** [Post](https://www.linkedin.com/posts/rajeshreddybejadi_330-create-an-aws-s3-bucket-using-terraform-activity-7399491154809114626-Zpm5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtOAmUBhMKAawGNShowAOwp-oCW6MwdWis)
+- **Code Repository:** [GitHub](https://github.com/BejadiRajeshReddy/30-Days-AWS-Terraform-Challenge.git)
+- **Issue:** [#118](https://github.com/piyushsachdeva/Terraform-Full-Course-Aws/issues/118)
+
+### 🎯 Key Learnings
+
+Today I Learnt how to provision S3 bucket and VPC in Terraform
 
 ---
 
