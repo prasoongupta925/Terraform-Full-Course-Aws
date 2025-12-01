@@ -1,0 +1,37 @@
+# Day 6 - Git Ignore File
+# Prevent committing sensitive and unnecessary files
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+
+# Terraform directory
+.terraform/
+.terraform.lock.hcl
+
+# Variable files (may contain secrets)
+terraform.tfvars
+*.auto.tfvars
+*.auto.tfvars.json
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Log files
+*.log
+crash.log
+
+# SSH Keys
+*.pem
+*.pub
+
+# Backup files
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
