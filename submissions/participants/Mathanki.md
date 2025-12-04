@@ -6,9 +6,9 @@
 **Personal Practice Repo:** https://github.com/Mathanki/Terraform-Full-Course-Aws
 
 ## Progress Overview
-- **Days Completed:** 3/30
-- **Current Streak:** 1 day
-- **Last Submission:** 2025-11-27
+- **Days Completed:** 5/30
+- **Current Streak:** 3 days
+- **Last Submission:** 2025-11-29
 
 ---
 
@@ -77,6 +77,45 @@ Here's what I learned on Day 4:
 Today i have learned 
 ✅Authentication and Authorization to AWS resources
 ✅Created a terraform file to provision VPC and S3 bucket and created implicit dependency between them
+
+---
+
+## Day 5: https://www.youtube.com/watch?v=V-2yC39BONc&list=PLl4APkPHzsUXcfBSJDExYR-a4fQiZGmMp&index=8
+**Date:** 2025-11-28  
+**Status:** ✅ Completed
+
+### 📝 Blog Post
+[Day 5 - https://www.youtube.com/watch?v=V-2yC39BONc&list=PLl4APkPHzsUXcfBSJDExYR-a4fQiZGmMp&index=8](https://terraformwithaws.hashnode.dev/day-5-terraform-variables-30daysofawsterraform)
+
+### 🔗 Links
+- **Social Media:** [Post](https://www.linkedin.com/posts/mathanki-nirojan_aws-terraform-iac-activity-7400225178250805248-ZqWy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABdk3b0BiBXxhhkt3X2ADBwOUnQwgbYsTzQ)
+- **Code Repository:** [GitHub](https://github.com/Mathanki/Terraform-Full-Course-Aws/tree/master/Day5)
+- **Issue:** [#219](https://github.com/piyushsachdeva/Terraform-Full-Course-Aws/issues/219)
+
+### 🎯 Key Learnings
+
+Today learned about terraform variables
+
+---
+
+## Day 6: 6/30 - AWS Terraform Project Structure Best Practices
+**Date:** 2025-11-29  
+**Status:** ✅ Completed
+
+### 📝 Blog Post
+[Day 6 - 6/30 - AWS Terraform Project Structure Best Practices](https://terraformwithaws.hashnode.dev/day-6-terraform-file-structure-30daysofawsterraform)
+
+### 🔗 Links
+- **Social Media:** [Post](https://www.linkedin.com/posts/mathanki-nirojan_aws-terraform-iac-activity-7400654304287600640-y9zY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABdk3b0BiBXxhhkt3X2ADBwOUnQwgbYsTzQ)
+- **Code Repository:** [GitHub](https://github.com/Mathanki/Terraform-Full-Course-Aws/tree/master/Day6)
+- **Issue:** [#260](https://github.com/piyushsachdeva/Terraform-Full-Course-Aws/issues/260)
+
+### 🎯 Key Learnings
+
+Today i have learned Terraform file structure highlighted how crucial organization is in any Infrastructure-as-Code project. I learned why structuring Terraform configurations properly is not just a best practice—it’s a necessity for scalability, collaboration, and long-term maintainability.
+I explored the foundational principles like separation of concerns, logical grouping, consistent naming, modular design, and proper documentation. These basics set the stage for building cleaner and more predictable Terraform projects.
+Overall, the key takeaway is simple:
+A well-organized Terraform codebase is easier to manage, easier to automate, and far easier to scale as infrastructure grows.
 
 ---
 
