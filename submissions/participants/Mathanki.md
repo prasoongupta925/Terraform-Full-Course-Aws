@@ -6,9 +6,9 @@
 **Personal Practice Repo:** https://github.com/Mathanki/Terraform-Full-Course-Aws
 
 ## Progress Overview
-- **Days Completed:** 5/30
-- **Current Streak:** 3 days
-- **Last Submission:** 2025-11-29
+- **Days Completed:** 7/30
+- **Current Streak:** 4 days
+- **Last Submission:** 2025-11-27
 
 ---
 
@@ -116,6 +116,48 @@ Today i have learned Terraform file structure highlighted how crucial organizati
 I explored the foundational principles like separation of concerns, logical grouping, consistent naming, modular design, and proper documentation. These basics set the stage for building cleaner and more predictable Terraform projects.
 Overall, the key takeaway is simple:
 A well-organized Terraform codebase is easier to manage, easier to automate, and far easier to scale as infrastructure grows.
+
+---
+
+## Day 7: https://www.youtube.com/watch?v=gu2oCJ9DQiQ&list=PLl4APkPHzsUXcfBSJDExYR-a4fQiZGmMp&index=8
+**Date:** 2025-11-30  
+**Status:** ✅ Completed
+
+### 📝 Blog Post
+[Day 7 - https://www.youtube.com/watch?v=gu2oCJ9DQiQ&list=PLl4APkPHzsUXcfBSJDExYR-a4fQiZGmMp&index=8](https://terraformwithaws.hashnode.dev/day-7-type-constraints-in-terraform-understanding-variables-based-on-values-30daysofawsterraform)
+
+### 🔗 Links
+- **Social Media:** [Post](https://www.linkedin.com/posts/mathanki-nirojan_aws-terraform-iac-activity-7401020888000806912-NX9x?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABdk3b0BiBXxhhkt3X2ADBwOUnQwgbYsTzQ)
+- **Code Repository:** [GitHub](https://github.com/Mathanki/Terraform-Full-Course-Aws/tree/master/Day7)
+- **Issue:** [#294](https://github.com/piyushsachdeva/Terraform-Full-Course-Aws/issues/294)
+
+### 🎯 Key Learnings
+
+I have learned  variables based on values, one of the core building blocks of writing reliable Terraform configurations.
+
+---
+
+## Day 2: Terraform AWS Provider explained
+**Date:** 2025-11-27  
+**Status:** ✅ Completed
+
+### 📝 Blog Post
+[Day 2 - Terraform AWS Provider explained](https://medium.com/@mathanki-nirojan/day-2-understanding-the-aws-provider-in-terraform-30daysofawsterraform-b6f88ec84421)
+
+### 🔗 Links
+- **Social Media:** [Post](https://www.linkedin.com/posts/mathanki-nirojan_day-2-understanding-the-aws-provider-in-activity-7399579801629429760-SqqR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABdk3b0BiBXxhhkt3X2ADBwOUnQwgbYsTzQ)
+- **Code Repository:** [GitHub](https://github.com/Mathanki/Terraform-Full-Course-Aws/tree/master)
+- **Issue:** [#138](https://github.com/piyushsachdeva/Terraform-Full-Course-Aws/issues/138)
+
+### 🎯 Key Learnings
+
+Today i have learned 
+✅ Terraform Providers
+✅ Provider version vs Terraform core version
+✅ Why version matters
+✅ Version constraints
+✅ Operators for versions
+✅ First Sample Terraform file
 
 ---
 

@@ -6,9 +6,9 @@
 **Personal Practice Repo:** https://github.com/Saiprasad-1727/30-DAYS-OF-Terraform/blob/main/DAY-02/DAY-02-Providerd.md
 
 ## Progress Overview
-- **Days Completed:** 4/30
+- **Days Completed:** 6/30
 - **Current Streak:** 1 day
-- **Last Submission:** 2025-11-28
+- **Last Submission:** 2025-11-26
 
 ---
 
@@ -117,6 +117,68 @@ Today i have learned
 -- types of variables (based on purpose and values)
 -- Terraform Variable Precedence (Highest → Lowest)
 -- Benefits of using variables in terraform
+
+---
+
+## Day 1: Day 1: Introduction to Terraform
+**Date:** 2025-11-24  
+**Status:** ✅ Completed
+
+### 📝 Blog Post
+[Day 1 - Day 1: Introduction to Terraform](https://saiprasadannam.substack.com/p/infrastructure-as-code-iac-inspired)
+
+### 🔗 Links
+- **Social Media:** [Post](https://www.linkedin.com/posts/saiprasad-annam_130-how-does-terraform-work-intro-to-activity-7400194662512140288-CETy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAChoEAoBkIo2wehBR8kDv3DVqnQ29h7OqvI)
+- **Code Repository:** [GitHub](https://github.com/Saiprasad-1727/30-DAYS-OF-Terraform/tree/main/DAY-01)
+- **Issue:** [#23](https://github.com/piyushsachdeva/Terraform-Full-Course-Aws/issues/23)
+
+### 🎯 Key Learnings
+
+Today i have learned
+- Understanding Infrastructure as Code (IaC)
+- Why we need IaC
+- What is Terraform and its benefits
+- Challenges with the traditional approach
+- Terraform Workflow
+- Installing Terraform
+
+---
+
+## Day 3: S3 Bucket creation
+**Date:** 2025-11-26  
+**Status:** ✅ Completed
+
+### 📝 Blog Post
+[Day 3 - S3 Bucket creation](https://saiprasadannam.substack.com/p/infrastructure-as-code-iac-creating)
+
+### 🔗 Links
+- **Social Media:** [Post](https://www.linkedin.com/feed/update/urn:li:activity:7399453325164986368/?originTrackingId=RkOlGO6kcyOaV649mrUH6w%3D%3D)
+- **Code Repository:** [GitHub](https://github.com/Saiprasad-1727/30-DAYS-OF-Terraform/tree/main/DAY-03)
+- **Issue:** [#109](https://github.com/piyushsachdeva/Terraform-Full-Course-Aws/issues/109)
+
+### 🎯 Key Learnings
+
+What I Learned from Today’s Terraform Practice
+
+1. How to Set Up AWS for Terraform
+2. Creating Real Infrastructure Using Terraform
+3. Understanding Implicit Dependencies
+4. How Terraform Executes a Workflow
+
+terraform init -  initializes providers
+
+terraform plan  - shows the resources and relationships
+
+terraform apply  - creates the VPC first, then the S3 bucket
+
+Observed how Terraform retrieves state and orchestrates resource creation
+5. Practical Hands-on Confidence
+
+Successfully built cloud infrastructure using only Terraform code
+
+Understood how state, providers, and resource references work together
+
+Took a solid step toward mastering AWS IaC
 
 ---
 
